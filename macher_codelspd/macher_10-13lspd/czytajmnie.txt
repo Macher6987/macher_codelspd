@@ -1,0 +1,8 @@
+Skrypt napisany przez Masterek#6666
+Zakazuje sie sprzedazy go
+Skrypt jest ogolnodostepny nie trzeba za niego placic 
+Aby skrypt działał do configa 
+musisz dodac
+start masterek_10-13lspd
+
+Milego uzycia skryptu
